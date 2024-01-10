@@ -28,8 +28,9 @@ sidebar:
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15h9.286zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1zM.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8H.8z"/></g></svg>
     link: https://github.com/BDHU/minimalist
   - name: LinkedIn
-    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align: text-bottom;" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.25 0C3.07 0 1.3 1.75 1.3 3.92s1.77 3.92 3.95 3.92H9.2v15.66H3.89V24h5.28v-7.46c0-2.78 1.66-4.32 4.2-4.32 1.21 0 2.25.09 2.55.13v4.65h-1.75c-1.39 0-1.67.66-1.67 1.64V24h3.36l-.43-8.44h2.94v-.01c0-.08.01-.16.01-.24s.01-.2.01-.3c0-2.17-1.3-3.38-3.28-3.38-1.51 0-2.2.84-2.57 1.38h-.04V9.83H14.1c.03-.16.06-.33.06-.51C14.16 7.83 12.32 6 9.85 6 7.28 6 5 7.67 5 10.43s2.31 4.43 5.21 4.43c2.9 0 4.72-1.51 5.47-3.11h-5.47V8.44c0-.45.04-.9.14-1.33H9.2v-3.91h3.95C18.7 1.75 16.93 0 14.75 0z" fill="currentColor"/></svg>
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M10.8 23H1.8C1.4 23 1 22.6 1 22.2V1.8C1 1.4 1.4 1 1.8 1h9c.6 0 1 .4 1 1v10.2h-3V9.5h3v1.6c0 3.5 2.1 5.4 5.2 5.4h1.6v3.8c-2.2.4-4.7.2-6.4-.6zM3.8 20.3V12H6v8.3c0 .2 0 .3-.2.4H3.9c-.1 0-.2 0-.2-.1zM4.9 9.5c-1.4 0-2.4-1-2.4-2.3 0-1.3 1-2.3 2.3-2.3s2.4 1 2.4 2.3c0 1.3-1 2.3-2.3 2.3zM19 20.3h-2.8v-4.7c0-1.1-.4-1.7-1.2-1.7s-1.4.6-1.4 1.7v4.7H10V12h2.8v1.1c.4-.6 1.3-1.1 2.2-1.1 1.5 0 2.8 1 2.8 3.2v5.1z" fill="currentColor"/></svg>
     link: https://www.linkedin.com/in/your-linkedin-username
+
 
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
